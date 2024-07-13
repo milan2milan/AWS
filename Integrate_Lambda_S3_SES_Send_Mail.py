@@ -1,3 +1,6 @@
+#Must Sender and Recipient email ids are verified by SES service that provided by AWS 
+
+
 import json
 import boto3
 
