@@ -1,0 +1,7 @@
+****pip install --target ./dpendencies pymongo****
+
+1. Create account on mongo DB atlas as free
+2. Configure Mongo DB atlas
+3. Set up connection security
+4. Choose a connection method (Drivers)
+5. Go to Configure, Create and Set Environment Variable(Using password that is mongo DB password)
